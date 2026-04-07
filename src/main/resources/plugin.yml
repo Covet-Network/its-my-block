@@ -1,8 +1,8 @@
 main: re.como.itsmyblock.Main
 name: ItsMyBlock
-author: Comore
+authors: [Yosteve, Comore]
 version: 2.0
-api-version: 1.19
+api-version: 1.21
 softdepend: [HeadDatabase]
 commands:
   itsmyblock:
