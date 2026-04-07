@@ -1,0 +1,10 @@
+re\como\itsmyblock\listener\BlockListener.class
+re\como\itsmyblock\manager\BlockManager.class
+re\como\itsmyblock\skin\parser\TextureParser.class
+re\como\itsmyblock\skin\util\SkinUtil.class
+re\como\itsmyblock\command\BlockCommand.class
+re\como\itsmyblock\skin\parser\HDBParser.class
+re\como\itsmyblock\Main.class
+re\como\itsmyblock\skin\parser\Base64Parser.class
+re\como\itsmyblock\skin\parser\SkinParser.class
+re\como\itsmyblock\manager\SkinManager.class
