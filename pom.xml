@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>re.como.itsmyblock</groupId>
-    <artifactId>itsmyblock</artifactId>
+    <groupId>network.covet.itsmyblock</groupId>
+    <artifactId>its-my-block</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -40,6 +40,7 @@
     </dependencies>
 
     <build>
+        <finalName>ItsMyBlock-2.0-alpha</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
