@@ -1,9 +1,0 @@
-main: re.como.itsmyblock.Main
-name: ItsMyBlock
-author: Comore
-version: 2.0
-api-version: 1.19
-softdepend: [HeadDatabase]
-commands:
-  itsmyblock:
-    aliases: [blocks, block]
